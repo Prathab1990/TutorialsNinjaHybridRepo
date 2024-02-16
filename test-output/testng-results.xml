@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-16T02:49:45 IST" name="Default suite" finished-at="2024-02-16T02:50:12 IST" duration-ms="27394">
+    <groups>
+    </groups>
+    <test started-at="2024-02-16T02:49:45 IST" name="Default test" finished-at="2024-02-16T02:50:12 IST" duration-ms="27394">
+      <class name="com.tutorialsninja.qa.testcases.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:49:45 IST" name="setup" finished-at="2024-02-16T02:49:49 IST" duration-ms="4936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:1, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:49:49 IST" name="verifyLoginWithValidCredentials" finished-at="2024-02-16T02:49:51 IST" duration-ms="1026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:49:51 IST" name="tearDown" finished-at="2024-02-16T02:49:51 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:49:51 IST" name="setup" finished-at="2024-02-16T02:49:55 IST" duration-ms="4318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidCrdentials()[pri:2, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:49:55 IST" name="verifyLoginWithInvalidCrdentials" finished-at="2024-02-16T02:49:56 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCrdentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:49:56 IST" name="tearDown" finished-at="2024-02-16T02:49:56 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:49:56 IST" name="setup" finished-at="2024-02-16T02:50:00 IST" duration-ms="4265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidPassword()[pri:3, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:50:00 IST" name="verifyLoginWithInvalidPassword" finished-at="2024-02-16T02:50:01 IST" duration-ms="1020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:50:01 IST" name="tearDown" finished-at="2024-02-16T02:50:01 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:50:01 IST" name="setup" finished-at="2024-02-16T02:50:06 IST" duration-ms="4350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyLoginwithoutAnyCredentials()[pri:4, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:50:06 IST" name="VerifyLoginwithoutAnyCredentials" finished-at="2024-02-16T02:50:06 IST" duration-ms="741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginwithoutAnyCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:50:06 IST" name="tearDown" finished-at="2024-02-16T02:50:07 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:50:07 IST" name="setup" finished-at="2024-02-16T02:50:11 IST" duration-ms="4241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidUsername()[pri:5, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:50:11 IST" name="verifyLoginWithInvalidUsername" finished-at="2024-02-16T02:50:12 IST" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidUsername -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tutorialsninja.qa.testcases.Login@28f2a10f]" started-at="2024-02-16T02:50:12 IST" name="tearDown" finished-at="2024-02-16T02:50:12 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.qa.testcases.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
